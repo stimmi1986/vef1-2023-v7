@@ -1,4 +1,4 @@
-##Verkefni 7: Console búðin
+# Verkefni 7: Console búðin
 
 ## Read me
 
@@ -9,7 +9,7 @@
 4. Happy Shopping.
 
 
-#Console búðin
+Console búðin
 =============
 
 #Til að versla: opnið Console í DevTools vafra með t.d. Control+Shift+I á Windows eða Command+Option+I á Mac.
