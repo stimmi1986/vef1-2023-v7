@@ -1,7 +1,7 @@
 {
-  "name": "vef1-2023-v7-synilausn",
+  "name": "vef1-2023-v7",
   "version": "1.0.0",
-  "description": "## Markmið",
+  "description": "",
   "main": "scripts.js",
   "scripts": {
     "dev": "browser-sync start --server --files scripts.js index.html",
@@ -10,7 +10,7 @@
     "build": "concurrently npm:copy:*"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stimmi",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.29.3",
